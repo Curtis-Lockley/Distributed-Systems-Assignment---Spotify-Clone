@@ -28,6 +28,7 @@ When the prime node reaches its node capacity, it will attempt to find another c
 
 ### Client Side
 ![User preview](userPreview.png?raw=true "Preview of the user.py when logged in")
+
 On the client side, login using any of these usernames:
 * Someone
 * AnotherUser
