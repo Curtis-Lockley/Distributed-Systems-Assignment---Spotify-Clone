@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/26248049/217896266-3d476759-a3d2-40d6-
 # Instructions
 * 1: Run **primeNODE.py** to start the system
 * 2: Run **user.py** and login using one of the usernames shown in **Documentation.docx**
-*3: Listen pick a song
+* 3: Listen pick a song
 
 # Documentation (Same as Documentation.docx)
 
